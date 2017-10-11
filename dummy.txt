@@ -1,3 +1,4 @@
+branch 3 version of dummy.txt
 dummy
 
 local edit to branch 2
