@@ -1,0 +1,9 @@
+remote file test
+
+local edit
+
+github edit
+
+local edit
+
+github test edit
