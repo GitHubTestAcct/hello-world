@@ -1,3 +1,5 @@
 remote file test
 
 local edit
+
+merge conflict attempt
