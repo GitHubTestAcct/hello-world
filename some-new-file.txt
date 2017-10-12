@@ -1,4 +1,4 @@
-blah blah
+blah blah - edits in 2nd conflict branch
 
 edits in branch 1
 
