@@ -1,7 +1,0 @@
-dummy
-
-local edit to branch 3
-another edit to branch 3
-
-
-edit from "another branch"
